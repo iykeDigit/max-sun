@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MaxSunAPI.Controllers.SunLocationController",
+    "Method": "GetSunLocation",
+    "RelativePath": "api/SunLocation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

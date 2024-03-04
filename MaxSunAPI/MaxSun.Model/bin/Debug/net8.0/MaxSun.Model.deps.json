@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MaxSun.Model/1.0.0": {
+        "runtime": {
+          "MaxSun.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxSun.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

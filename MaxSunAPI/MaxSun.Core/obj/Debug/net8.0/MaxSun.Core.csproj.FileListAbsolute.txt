@@ -1,0 +1,16 @@
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\bin\Debug\net8.0\MaxSun.Core.deps.json
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\bin\Debug\net8.0\MaxSun.Core.dll
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\bin\Debug\net8.0\MaxSun.Core.pdb
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\bin\Debug\net8.0\MaxSun.Model.dll
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\bin\Debug\net8.0\MaxSun.Model.pdb
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.AssemblyInfo.cs
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.sourcelink.json
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.C.9407126E.Up2Date
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.dll
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\refint\MaxSun.Core.dll
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\MaxSun.Core.pdb
+C:\Users\IKECHUKWU\Desktop\Projects\max-sun\MaxSunAPI\MaxSun.Core\obj\Debug\net8.0\ref\MaxSun.Core.dll
