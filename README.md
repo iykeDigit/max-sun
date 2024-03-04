@@ -1,2 +1,2 @@
-# max-sun
+# Max-Sun
 # An app that tracks the areas with the most sunlight in a particular location and creates a walking/running path along these areas. This would be useful during the winter season when there is less sunlight.An app that tracks the areas with the most sunlight in a particular location and creates a walking/running path along these areas. This would be useful during the winter season when there is less sunlight.
