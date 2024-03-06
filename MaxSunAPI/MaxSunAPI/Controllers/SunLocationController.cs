@@ -25,8 +25,9 @@ namespace MaxSunAPI.Controllers
             {
                 return BadRequest(ex.Message);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                var msg = ex.Message;
                 return StatusCode(500);
             }
         }
